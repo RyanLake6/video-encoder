@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 import argparse
 from utils import get_bitrate, get_file_size, reformat_video, print_report
