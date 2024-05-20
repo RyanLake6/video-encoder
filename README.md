@@ -55,4 +55,4 @@ To setup this script to be used in any directory across your system follow these
 
    - This .bat file simply gets the absolute path of the script `reformat-videos.py` and makes the `python .\reformat-videos.py` call and passes all its arguments through
 
-3. You should be able to simpy run `video-encoder --help` as well as all other script calls from any directory similar to a professional CLI tool you would install
+3. You should be able to simpy run `video-encoder --help` as well as all other script calls from any directory similar to a professional CLI tool you would install (NOTE: if within repo directory you will need to call `.\video-encoder --help` since the terminal may not search the current directory for executable files)
